@@ -1,5 +1,5 @@
 #action.yml
-name: :Custom Github Action:
+name: 'Custom Github Action'
 description: 'GA takes inputs and returns outputs'
 inputs:
   num:
